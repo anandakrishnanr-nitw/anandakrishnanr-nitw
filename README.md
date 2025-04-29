@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello World!, I'm Anand, a Hardware Developer 👋🏼:<br>🛜 specializing in PCB schematic design, board design and embedded firmware development<br>👨🏼‍🎓 Graduate from National Institute of Technology Warangal, specializing in Smart Electric Grid<br>
+Hello World!, I'm Anand, a Hardware Engineer 👋🏼:<br>🛜 specializing in PCB schematic design, board design and embedded firmware development<br>👨🏼‍🎓 Graduate from National Institute of Technology Warangal, specializing in Smart Electric Grid<br>
 
 
 ## 🌐 Socials:
