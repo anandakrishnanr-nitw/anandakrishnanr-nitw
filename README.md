@@ -6,7 +6,7 @@
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="42" height="42" /></a></p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/linkedin.com/in/anandakrishnan-nitw" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a target="_blank" href="https://www.linkedin.com/in/anandakrishnan-nitw" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=anandakrishnanr-nitw&show_icons=true&locale=en" alt="anandakrishnanr-nitw" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anandakrishnanr-nitw&" alt="anandakrishnanr-nitw" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=anandakrishnanr-nitw&show_icons=true&locale=en&layout=compact" alt="anandakrishnanr-nitw" /></p>
