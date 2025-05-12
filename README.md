@@ -1,4 +1,4 @@
-# Hello World!, I'm Anand, a Hardware Engineer 👋🏼:
+# Hello!, I'm Anand, a Hardware Engineer 👋🏼:
 🛜 specializing in PCB schematic design, board design and embedded firmware development<br>👨🏼‍🎓 Graduate from National Institute of Technology Warangal<br>
 
 
